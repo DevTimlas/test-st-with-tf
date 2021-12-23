@@ -3,5 +3,4 @@ import streamlit as st
 
 st.title('Test share')
 
-st.write('hello world, first test.. tensorflow on')
-print(tf.__version__)
+st.write('hello world, first test.. tensorflow on', tf.__version__)
